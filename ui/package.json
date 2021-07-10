@@ -1,6 +1,6 @@
 {
-  "name": "uh-dept-dashboard-template",
-  "homepage": "https://uh-dept-dashboard.github.io/uh-dept-dashboard-template",
+  "name": "access-dashboard",
+  "homepage": "https://github.com/Aaron-Kam/access-dashboard",
   "version": "1.0.0",
   "private": true,
   "dependencies": {

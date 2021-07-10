@@ -31,8 +31,8 @@ jobs:
 
       - run: npm ci
       - run: npm run lint
-      - run: git config --global user.email "johnson@hawaii.edu"
-      - run: git config --global user.name "Philip Johnson"
-      - run: git remote set-url origin https://uh-dept-dashboard:${{ secrets.GITHUB_TOKEN }}@github.com/uh-dept-dashboard/uh-dept-dashboard-template.git
+      - run: git config --global user.email "akam476@hawaii.edu"
+      - run: git config --global user.name "Aaron-Kam"
+      - run: git remote set-url origin https://ACCESS-Advising:${{ secrets.GITHUB_TOKEN }}@github.com/ACCESS-Advising/access-dashboard.git
       - run: npm run deploy
 
