@@ -1,4 +1,6 @@
-# uh-dept-dashboard-template
+# Deployed github site
+
+Deployed site: [https://ACCESS-Advising/github.io/access-dashboard](https://ACCESS-Advising/github.io/access-dashboard)
 
 This repo contains template code for creating University of Hawaii Department Dashboards.
 
