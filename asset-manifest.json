@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/access-dashboard/static/css/main.af7667b1.chunk.css",
-    "main.js": "/access-dashboard/static/js/main.86a5fb18.chunk.js",
-    "main.js.map": "/access-dashboard/static/js/main.86a5fb18.chunk.js.map",
+    "main.css": "/access-dashboard/static/css/main.4f0b6587.chunk.css",
+    "main.js": "/access-dashboard/static/js/main.59ba2712.chunk.js",
+    "main.js.map": "/access-dashboard/static/js/main.59ba2712.chunk.js.map",
     "runtime-main.js": "/access-dashboard/static/js/runtime-main.fa4e3092.js",
     "runtime-main.js.map": "/access-dashboard/static/js/runtime-main.fa4e3092.js.map",
-    "static/css/2.ee44cfdd.chunk.css": "/access-dashboard/static/css/2.ee44cfdd.chunk.css",
-    "static/js/2.a49cc9c9.chunk.js": "/access-dashboard/static/js/2.a49cc9c9.chunk.js",
-    "static/js/2.a49cc9c9.chunk.js.map": "/access-dashboard/static/js/2.a49cc9c9.chunk.js.map",
+    "static/css/2.44dc6bd4.chunk.css": "/access-dashboard/static/css/2.44dc6bd4.chunk.css",
+    "static/js/2.13b61ba2.chunk.js": "/access-dashboard/static/js/2.13b61ba2.chunk.js",
+    "static/js/2.13b61ba2.chunk.js.map": "/access-dashboard/static/js/2.13b61ba2.chunk.js.map",
     "index.html": "/access-dashboard/index.html",
-    "static/css/2.ee44cfdd.chunk.css.map": "/access-dashboard/static/css/2.ee44cfdd.chunk.css.map",
-    "static/css/main.af7667b1.chunk.css.map": "/access-dashboard/static/css/main.af7667b1.chunk.css.map",
-    "static/js/2.a49cc9c9.chunk.js.LICENSE.txt": "/access-dashboard/static/js/2.a49cc9c9.chunk.js.LICENSE.txt",
+    "static/css/2.44dc6bd4.chunk.css.map": "/access-dashboard/static/css/2.44dc6bd4.chunk.css.map",
+    "static/css/main.4f0b6587.chunk.css.map": "/access-dashboard/static/css/main.4f0b6587.chunk.css.map",
+    "static/js/2.13b61ba2.chunk.js.LICENSE.txt": "/access-dashboard/static/js/2.13b61ba2.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/access-dashboard/static/media/outline-icons.ddae9b1b.woff",
     "static/media/uh-logo.1f7898fc.png": "/access-dashboard/static/media/uh-logo.1f7898fc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fa4e3092.js",
-    "static/css/2.ee44cfdd.chunk.css",
-    "static/js/2.a49cc9c9.chunk.js",
-    "static/css/main.af7667b1.chunk.css",
-    "static/js/main.86a5fb18.chunk.js"
+    "static/css/2.44dc6bd4.chunk.css",
+    "static/js/2.13b61ba2.chunk.js",
+    "static/css/main.4f0b6587.chunk.css",
+    "static/js/main.59ba2712.chunk.js"
   ]
 }
