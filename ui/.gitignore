@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# OS dependent packages
+package.json
+tsconfig.json
+
 # testing
 /coverage
 
